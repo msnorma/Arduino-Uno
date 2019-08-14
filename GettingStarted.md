@@ -2,9 +2,9 @@
 
 ---
 
-### Getting Started with the Basics of Arduino, where we will be taking one project and improving on it to futher enhance ones understanding.
+##### Getting Started with the Basics of Arduino, where we will be taking one project and improving on it to futher enhance ones understanding.
 
-#### An Arduino is a open source hardware board with its brain as a microcontrollers used for building **ANY** digital solution.
+###### An Arduino is a open source hardware board with its brain as a microcontrollers used for building **ANY** digital solution.
 
 ---
 

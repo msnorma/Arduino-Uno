@@ -5,13 +5,14 @@
 
 <br/>
 
-Lets get started!
-
-> To get more inside on how to set up your environment click [get started](https://www.arduino.cc/en/Guide/ArduinoUno#toc2) and follow the instructions.
+```
+Let started!
+To get more inside on how to set up your environment click [get started](https://www.arduino.cc/en/Guide/ArduinoUno#toc2) and follow the instructions.
+```
 
 <br/>
 
-###### After you have downloaded the IDE and setup your environment, we will then start off with a simple `Hello World` sketch which we will imporve on to it as we gradually progress.
+*After you have downloaded the IDE and setup your environment, we will then start off with a simple `Hello World` sketch which we will imporve on to it as we gradually progress.*
 
 <br/>
 

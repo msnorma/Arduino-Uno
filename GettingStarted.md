@@ -1,6 +1,7 @@
 ## Basics of Arduino
 
-###### An Arduino is a open source hardware board with its brain as a microcontrollers used for building **ANY** digital solution. Getting Started with the Basics of Arduino, where we will be taking one project and improving on it to futher enhance ones understanding.
+###### An Arduino is a open source hardware board with its brain as a microcontrollers used for building **ANY** digital solution.
+###### Getting Started with the Basics of Arduino, where we will be taking one project and improving on it to futher enhance ones understanding.
 
 <br/>
 
@@ -16,7 +17,7 @@
 
 ### Getting started with your first RGB `hello world` circuit and code.
 
-###### Outcomes:
+Outcomes:
 - understanding of the IDE environment.
 - learning how to connect your components on to the breadboard.
 - using the serial monitor to display data, which will be later formatted to json and used in a site as an api.

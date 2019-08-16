@@ -5,6 +5,7 @@
 
 <br/>
 
+>Lets get started!
 > To get more inside on how to set up your environment click [get started](https://www.arduino.cc/en/Guide/ArduinoUno#toc2) and follow the instructions.
 
 <br/>
